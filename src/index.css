@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+html { font-family: 'Playfair Display', serif; font-size: 20px; }
+
+h1, h2, h3, h4, h5, h6, p, a, li, span { color: rgb(0,1,8); }
+
+.no-outline:focus { outline: none; }
